@@ -1,0 +1,27 @@
+# Configurazioni di sistema
+.vscode/
+.idea/
+
+# File di configurazione utente
+.vscode/settings.json
+
+# Cache e file temporanei
+node_modules/
+*.log
+*.log.*
+logs/
+*.iml
+
+# Output compilato
+dist/
+out/
+
+# Configurazioni di ambiente
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+.pnpm/
+pnpm-lock.yaml
+yarn.lock

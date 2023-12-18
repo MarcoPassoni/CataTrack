@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../style.css">
+
+  <title>CataTrack</title>
+</head>
+
+<body class="overflow-y-hidden" id="newsbody">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <div class="container">
+      <a class="navbar-brand" href="#"><img src="../img/logo.png" alt="" height="80" width="80"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/page_1/index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/page_2/index.html">Vulcani</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/page_3/index.html">Iceberg</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/page_4/index.html">Incendi</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/page_5/index.html">Uragani</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/page_6/index.html">News</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/page_7/index.html">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mt-5" hidden="true" id="container_loading_news">
+    <div class="text-center">
+      <h2 id="loadingText">Caricamento in corso...</h2>
+      <div class="spinner-border" role="status" id="loadingSpinner">
+        <span class="sr-only"></span>
+      </div>
+    </div>
+  </div>
+  
+  <a href="/page_6/index.html" class="btn btn-primary" id="button_choose"><--</a>
+  
+  <main class="container mt-4" hidden="true" id="main">
+    <section class="news" id="news">
+        <div class="grid gap-3">
+          <div class="row" id="news-container">
+          </div>
+        </div>
+    </section>
+</main>
+
+  <div class="buttons_container" id="buttons_container">
+    <button name="choose" onclick="buttonClick(1)" id="button_choose" class="btn btn-primary">Tsunami</button>
+    <button name="choose" onclick="buttonClick(2)" id="button_choose" class="btn btn-primary">Uragani</button>
+    <button name="choose" onclick="buttonClick(3)" id="button_choose" class="btn btn-primary">Incendi</button>
+    <button name="choose" onclick="buttonClick(4)" id="button_choose" class="btn btn-primary">Iceberg</button>
+    <button name="choose" onclick="buttonClick(5)" id="button_choose" class="btn btn-primary">Vulcani</button>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
