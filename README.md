@@ -70,9 +70,26 @@ Se desideri contribuire allo sviluppo di questo sito, segui i passaggi seguenti:
 
 Si noti che il sito web è stato sviluppato con un'organizzazione particolare. L'index iniziale si trova all'interno della cartella `page_1` come `index.html`, anziché essere posizionato come l'index principale nella directory principale del sito web. Questa scelta è stata fatta per motivi organizzativi e di struttura del progetto. Per testare il sito, è necessario avviare l'`index.html` situato nella cartella `page_1`, anche se si desidera ospitarlo su un server. Questo approccio è stato adottato per garantire una corretta navigazione e funzionalità del sito. Quando il sito viene caricato su un server, è importante assicurarsi che la struttura delle directory sia mantenuta per garantire il funzionamento ottimale delle risorse e dei collegamenti interni. Se si desidera modificare l'indirizzo URL di base o utilizzare un'organizzazione diversa, è consigliabile apportare le opportune modifiche ai percorsi dei file all'interno del codice sorgente.
 
-## Ringraziamenti 🙏
+## Riconoscimenti 🌟
 
-Ringraziamo tutti coloro che hanno contribuito a questo progetto con il loro tempo e le loro competenze. L'impegno della comunità è fondamentale per il successo continuato di questa risorsa.
+Desidero esprimere la mia profonda gratitudine ai servizi API che hanno giocato un ruolo essenziale nello sviluppo di questo sito web. Senza il loro prezioso supporto, questo progetto sarebbe stato molto più difficile da realizzare. Ogni servizio elencato qui ha contribuito in modo significativo ad arricchire l'esperienza degli utenti e a migliorare la funzionalità del sito.
+Un ringraziamento speciale va a:
+- [News API](https://newsapi.org) per l'accesso alle notizie in tempo reale.
+- [EmailJS](https://www.emailjs.com) per semplificare la gestione delle email.
+- [NASA EONET](https://eonet.gsfc.nasa.gov) per i dati preziosi sui fenomeni naturali.
+- [Leaflet](https://leafletjs.com/) per la creazione di mappe interattive coinvolgenti.
+
+Ringrazio anche i collaboratori per la fornitura di dati tramite API pubbliche:
+
+- [METOC Navy](https://www.metoc.navy.mil/)
+- [DisasterAware](https://disasteraware.pdc.org/)
+- [Smithsonian Volcano](https://volcano.si.edu/)
+- [Copernicus Emergency](https://emergency.copernicus.eu/)
+- [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
+- [GDACS](https://www.gdacs.org/)
+- [International Charter](https://disasterscharter.org/web/guest)
+- [ReliefWeb](https://reliefweb.int/disasters)
+- [BYU SCP](https://www.scp.byu.edu/)
 
 ## Licenza 📜
 
