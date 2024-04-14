@@ -66,6 +66,10 @@ Se desideri contribuire allo sviluppo di questo sito, segui i passaggi seguenti:
 3. Committa i tuoi cambiamenti (`git commit -m 'Aggiunta nuova caratteristica'`).
 4. Fai push del tuo branch (`git push origin nome-tua-caratteristica`).
 5. Apri una richiesta pull.
+## Avviso 🚨
+
+Si noti che il sito web è stato sviluppato con un'organizzazione particolare. L'index iniziale si trova all'interno della cartella `page_1` come `index.html`, anziché essere posizionato come l'index principale nella directory principale del sito web. Questa scelta è stata fatta per motivi organizzativi e di struttura del progetto.
+Per testare il sito, è necessario avviare l'`index.html` situato nella cartella `page_1`, anche se si desidera ospitarlo su un server. Questo approccio è stato adottato per garantire una corretta navigazione e funzionalità del sito. Quando il sito viene caricato su un server, è importante assicurarsi che la struttura delle directory sia mantenuta per garantire il funzionamento ottimale delle risorse e dei collegamenti interni. Se si desidera modificare l'indirizzo URL di base o utilizzare un'organizzazione diversa, è consigliabile apportare le opportune modifiche ai percorsi dei file all'interno del codice sorgente.
 
 ## Ringraziamenti 🙏
 
