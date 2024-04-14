@@ -24,7 +24,7 @@ Il progetto è stato ideato come parte integrante del percorso educativo della c
 
 La mappa interattiva di **CataTrack** è uno strumento potente per visualizzare e comprendere gli eventi naturali come vulcani, incendi, uragani e iceberg. Questa sezione fornisce una panoramica approfondita su come la mappa viene popolata con dati in tempo reale e interagisce con gli utenti.
 
-#### Tecnologie e API Utilizzate 🛠️
+### Tecnologie e API Utilizzate 🛠️
 
 ##### NASA EONET API 🌌
 
@@ -41,9 +41,7 @@ Per visualizzare gli eventi sulla mappa, CataTrack utilizza la libreria **Leafle
 
 #### Implementazione 🚀
 
-Al caricamento della pagina, CataTrack effettua richieste asincrone all'API della NASA EONET per ottenere dati sugli eventi
-
- naturali più recenti. I dati vengono poi elaborati e i marcatori vengono posizionati sulla mappa Leaflet. Gli utenti hanno la possibilità di selezionare un anno specifico per visualizzare gli eventi in quel periodo, fornendo un'esperienza personalizzata.
+Al caricamento della pagina, CataTrack effettua richieste asincrone all'API della NASA EONET per ottenere dati sugli eventi naturali più recenti. I dati vengono poi elaborati e i marcatori vengono posizionati sulla mappa Leaflet. Gli utenti hanno la possibilità di selezionare un anno specifico per visualizzare gli eventi in quel periodo, fornendo un'esperienza personalizzata.
 
 Questa mappa interattiva non solo fornisce informazioni vitali sugli eventi naturali, ma offre anche un modo coinvolgente per esplorare e apprendere. È un elemento chiave nell'approccio educativo del progetto, fornendo agli utenti uno strumento visuale per comprendere meglio la geografia degli eventi naturali e la loro distribuzione temporale.
 
@@ -66,10 +64,10 @@ Se desideri contribuire allo sviluppo di questo sito, segui i passaggi seguenti:
 3. Committa i tuoi cambiamenti (`git commit -m 'Aggiunta nuova caratteristica'`).
 4. Fai push del tuo branch (`git push origin nome-tua-caratteristica`).
 5. Apri una richiesta pull.
+
 ## Avviso 🚨
 
-Si noti che il sito web è stato sviluppato con un'organizzazione particolare. L'index iniziale si trova all'interno della cartella `page_1` come `index.html`, anziché essere posizionato come l'index principale nella directory principale del sito web. Questa scelta è stata fatta per motivi organizzativi e di struttura del progetto.
-Per testare il sito, è necessario avviare l'`index.html` situato nella cartella `page_1`, anche se si desidera ospitarlo su un server. Questo approccio è stato adottato per garantire una corretta navigazione e funzionalità del sito. Quando il sito viene caricato su un server, è importante assicurarsi che la struttura delle directory sia mantenuta per garantire il funzionamento ottimale delle risorse e dei collegamenti interni. Se si desidera modificare l'indirizzo URL di base o utilizzare un'organizzazione diversa, è consigliabile apportare le opportune modifiche ai percorsi dei file all'interno del codice sorgente.
+Si noti che il sito web è stato sviluppato con un'organizzazione particolare. L'index iniziale si trova all'interno della cartella `page_1` come `index.html`, anziché essere posizionato come l'index principale nella directory principale del sito web. Questa scelta è stata fatta per motivi organizzativi e di struttura del progetto. Per testare il sito, è necessario avviare l'`index.html` situato nella cartella `page_1`, anche se si desidera ospitarlo su un server. Questo approccio è stato adottato per garantire una corretta navigazione e funzionalità del sito. Quando il sito viene caricato su un server, è importante assicurarsi che la struttura delle directory sia mantenuta per garantire il funzionamento ottimale delle risorse e dei collegamenti interni. Se si desidera modificare l'indirizzo URL di base o utilizzare un'organizzazione diversa, è consigliabile apportare le opportune modifiche ai percorsi dei file all'interno del codice sorgente.
 
 ## Ringraziamenti 🙏
 
