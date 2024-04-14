@@ -13,7 +13,7 @@ Questo progetto offre un'interfaccia interattiva per monitorare e tracciare even
 
 ## Motivo del Progetto 🚀
 
-Il progetto è stato ideato come parte integrante del percorso educativo della classe **5iB** della scuola **Villa Greppi** di Monticello Brianza (LC). L'obiettivo principale è stato quello di applicare le conoscenze acquisite durante il corso di studi, mettendo in pratica le competenze informatiche nello sviluppo di un'applicazione funzionale e divertente. Questo approccio ha consentito agli studenti di acquisire esperienza pratica nell'utilizzo di tecnologie informatiche e nel lavoro di squadra.
+Il progetto è stato ideato come parte integrante del percorso educativo della classe **5iB** della scuola **Villa Greppi** di Monticello Brianza (LC). L'obiettivo principale è stato quello di applicare le conoscenze acquisite durante il corso di studi, mettendo in pratica le competenze informatiche nello sviluppo di un'applicazione funzionale e divertente. Questo approccio ha consentito agli studenti di acquisire esperienza pratica nell'utilizzo di tecnologie informatiche.
 
 ## Collaboratore 👨‍💻
 
