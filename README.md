@@ -1,5 +1,6 @@
 # CataTrack 🚀
 
+## Servizi
 [![News API](https://img.shields.io/badge/News%20API-Explore-00ACEE?style=flat&logo=feedly&logoColor=white)](https://newsapi.org) [![EmailJS](https://img.shields.io/badge/EmailJS-Send%20Email-0eafd0?style=flat&logo=email&logoColor=white)](https://www.emailjs.com) [![NASA EONET](https://img.shields.io/badge/NASA%20EONET-Explore%20Events-0067C5?style=flat&logo=nasa&logoColor=white)](https://eonet.gsfc.nasa.gov) [![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) [![Leaflet](https://img.shields.io/badge/Leaflet-Interactive%20Maps-199900?style=flat&logo=leaflet&logoColor=white)](https://leafletjs.com/)
 
 ## Collaboratori fornitura dati 🤝
