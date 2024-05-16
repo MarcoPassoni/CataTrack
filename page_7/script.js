@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //creazione variabile per http richiesta server
     //richiesta http ai server fatta con modello form, diviso per key-value
     //richiesta valida nel caso
+    //...
     var formData = {
       firstName: document.getElementById("firstName").value,
       lastName: document.getElementById("lastName").value,
